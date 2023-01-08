@@ -1,0 +1,177 @@
+4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+USA Network East (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
+USA Network West (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3848.ts
+USA Network (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/53307.ts
+USA Network (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/47.ts
+USA Network (vvc),http://vvc.to:2095/live/mylovedoctorLand/822475356470/135101.ts
+USA Network (destiny),http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2790.ts
+USA Network (iptvtree),http://iptvtree.net:8080/live/Miglior/taJA1d0G6K0WWytw/3390.ts
+USA Network (p205),https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/548148.ts
+USA Network East (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/14713
+USA Network West (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/1122
+USA Network East (main),http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/64025.ts
+USA Network West (main),http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
+USA Network East (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/435934.ts
+USA Network West (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/433174.ts
+USA Network (ac),http://ac.traveliptv.nl:80/live/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/15833.ts
+USA Network (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/223349.ts
+USA Network (ttv),http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
+TUDN (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/4640.ts
+TUDN (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/75940
+TUDN (ttv),http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1083.ts
+Telemundo (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3875.ts
+Telemundo (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/61202
+Telemundo (ttv),http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1081.ts
+Telemundo (destiny),http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2807.ts
+Univision Now (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/59850.ts
+Univision Now (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/122272
+Univision Now (ttv),http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/138.ts
+Univision Now (destiny),http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2792.ts
+Unimas (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/4483.ts
+Unimas (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/111615
+Unimas (ttv),http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/139.ts
+Unimas (destiny),http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2795.ts
+Universo (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3696.ts
+Universo (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/61036
+Universo (ttv),http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
+Universo (destiny),http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2684.ts
+Bein Sport 1 English (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
+Bein Sport 2 English (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548628.ts
+Bein Sport 1 English (san)  HEVC #with vpn,http://sansat.net:25461/live/crystalrussia/GZGGPJLVDMGJKZ8/63495.ts
+Bein Sport 2 English (san)  HEVC #with vpn,http://sansat.net:25461/live/crystalrussia/GZGGPJLVDMGJKZ8/63496.ts
+Bein Sport 3 English (san)  HEVC #with vpn,http://sansat.net:25461/crystalrussia/GZGGPJLVDMGJKZ8/63497
+Bein Sport 1 English (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/56341.ts
+Bein Sport 2 English (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/56342.ts
+Bein Sport 3 English (n208),http://n2086.securepoint.io:25461/qqbhmpgg/hSgdnb5w/56343
+Bein Sport 1 English (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/23793.ts
+Bein Sport 2 English (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/133700.ts
+Bein Sport 1 English (p205)  50fps,https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/191858.ts
+Bein Sport 2 English (p205),https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/191859.ts
+Bein Sport 1 English (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/78527
+Bein Sport 2 English (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/78528
+Bein Sport 3 English (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/78529
+Bein Sport 1 English (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/25113.ts
+Bein Sport 2 English (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/25114.ts
+Bein Sport 3 English (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/25115.ts
+Bein Sport 1 English (opplex) #with vpn,http://xtv.ooo:8080/live/Univision@RE/100Bangla/222532.ts
+Bein Sport 2 English (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/222534.ts
+Bein Sport 3 English (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/222538.ts
+Sky Sport Main Event (p205)  50fps,https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/749489.ts
+Sky Sport Premier League (p205)  50fps,https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/749505.ts
+Sky Sport Main Event (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/23336.ts
+Sky Sport Premier League (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/23342.ts
+Sky Sport Main Event (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53982
+Sky Sport Premier League (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53986
+Sky Sport Main Event (nxt),http://nxtgenpro.uk:8880/play/live.php?mac=00:1A:79:16:47:9E&stream=623589&extension=ts&play_token=xheo735f8E
+Sky Sport Premier League (nxt),http://nxtgenpro.uk:8880/play/live.php?mac=00:1A:79:16:47:9E&stream=623592&extension=ts&play_token=bKJzUn8lhO
+Sky Sport Main Event (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2185.ts
+Sky Sport Premier League (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2181.ts
+Sky Sport Premier League (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/143021
+Sky Sport Main Event (trip)  HEVC #with vpn,http://triptospain.dyndns.tv:8080/live/4wgK33coio/3pbjDoOW7Z/295354.ts
+Sky Sport Premier League (trip)  HEVC #with vpn,http://triptospain.dyndns.tv:8080/live/4wgK33coio/3pbjDoOW7Z/295357.ts
+Sky Sport Main Event (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586759.ts
+Sky Sport Premier League (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586761.ts
+Sky Sport Main Event (fuzzy),http://fuzzyunicorns.net:80/live/bbm.ilwu502@gmail.com/bbm21/586759.ts
+Sky Sport Premier League (fuzzy),http://fuzzyunicorns.net:80/live/bbm.ilwu502@gmail.com/bbm21/586761.ts
+Sky Sport Main Event (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/29678.ts
+Sky Sport Premier League (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/29676.ts
+Sky Sport Main Event (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/222624.ts
+Sky Sport Premier League (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/222625.ts
+Sky Sport Main Event (ttv),http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1475.ts
+Sky Sport Premier League (ttv),http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1478.ts
+BT Sport 1 (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
+BT Sport 2 (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
+BT Sport 3 (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2335.ts
+BT Sport 4 Espn (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2334.ts
+BT Sport 1 (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/55490
+BT Sport 2 (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/55491
+BT Sport 3 (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/55492
+BT Sport 4 Espn (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/55493
+BT Sport 1 (trip)  #with vpn,http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295378
+BT Sport 2 (trip)  #with vpn,http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295381
+BT Sport 3 (trip)  #with vpn,http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295385
+BT Sport 4 Espn (trip)  #with vpn,http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295389
+BT Sport 1 (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/23349.ts
+BT Sport 2 (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/23350.ts
+BT Sport 3 (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/23351.ts
+BT Sport 1 (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53850
+BT Sport 2 (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53851
+BT Sport 3 (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53852
+BT Sport 4 Espn (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53853
+BT Sport 1 (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586781.ts
+BT Sport 2 (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586783.ts
+BT Sport 3 (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586785.ts
+BT Sport 4 Espn (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586787.ts
+BT Sport 1 (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/29689.ts
+BT Sport 2 (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/29688.ts
+BT Sport 3 (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/29687.ts
+BT Sport 4 Espn (bellive),http://bellive.top:8080/live/121663552974613000/231663552974613/29686.ts
+Eleven Sport 1 (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/925.ts
+Eleven Sport 2 (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/923.ts
+Eleven Sport 3 (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/922.ts
+Eleven Sport 1 (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/58550.ts
+Eleven Sport 2 (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/58551.ts
+Eleven Sport 3 (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/58552.ts
+Eleven Sport 1 (d.server)  UHD,http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/9491
+Eleven Sport 2 (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/9870
+Eleven Sport 3 (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/9871
+Eleven Sport 1 (vvc),http://vvc.to:2095/live/mylovedoctorLand/822475356470/71203.ts
+Eleven Sport 2 (vvc),http://vvc.to:2095/live/mylovedoctorLand/822475356470/71206.ts
+Eleven Sport 3 (vvc),http://vvc.to:2095/live/mylovedoctorLand/822475356470/71209.ts
+Eleven Sport 1 (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579505.ts
+Eleven Sport 2 (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579506.ts
+Eleven Sport 3 (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579507.ts
+Sport Tv 1 (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/848.ts
+Sport Tv 2 (scale),http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/846.ts
+Sport Tv 1 (d.server)  50fps,http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/74113
+Sport Tv 2 (d.server)  UHD,http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/74168
+Sport Tv 1 (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579498.ts
+Sport Tv 2 (ttv),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579499.ts
+Star Sport Select 1 (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98867.ts
+Star Sport Select 2 (humi),http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98868.ts
+Star Sport Select 1 (iptvtree),http://iptvtree.net:8080/live/Miglior/taJA1d0G6K0WWytw/82628.ts
+Star Sport Select 2 (iptvtree),http://iptvtree.net:8080/live/Miglior/taJA1d0G6K0WWytw/16619.ts
+Star Sport Select 1 (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/53378
+Star Sport Select 2 (d.server),http://daddyserver.com:8080/@CLMediastreams/UmjV6v3eC2/53379
+Star Sport Select 1 (tvpanel),http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/553299.ts
+Star Sport Select 2 (nxt),http://nxtgenpro.uk:8880/play/live.php?mac=00:1A:79:16:47:9E&stream=862748&extension=ts&play_token=s73H0KWxAE
+Star Sport Select 1 (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/167578.ts
+Star Sport Select 2 (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/167579.ts
+Astro Super Sport 1 (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197514.ts
+Astro Super Sport 2 (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197515.ts
+Astro Super Sport 3 (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197516.ts
+Astro Super Sport 4 (n208),http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197517.ts
+Astro Super Sport 1 (iptvtree),http://iptvtree.net:8080/live/Miglior/taJA1d0G6K0WWytw/146068.ts
+Astro Super Sport 2 (iptvtree),http://iptvtree.net:8080/live/Miglior/taJA1d0G6K0WWytw/157556.ts
+Astro Super Sport 3 (iptvtree),http://iptvtree.net:8080/live/Miglior/taJA1d0G6K0WWytw/157557.ts
+Astro Super Sport 4 (iptvtree),http://iptvtree.net:8080/live/Miglior/taJA1d0G6K0WWytw/157558.ts
+Astro Super Sport 1 (p205),https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/1003861.ts
+Astro Super Sport 2 (p205),https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/1003862.ts
+Astro Super Sport 3 (p205),https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/1003863.ts
+Astro Super Sport 4 (p205),https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/1003864.ts
+True Premier Football 1 (tvt),http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
+True Premier Football 2 (tvt),http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
+Now HK Premier Sport 1 (n2086)  50fps,http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/236727
+Now HK Premier Sport 2 (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/236721
+Now HK Premier Sport 3 (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/236722
+Now HK Premier Sport 4 (n2086),http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/236730
+Now HK Premier Sport 1 (opplex)  50fps,http://xtv.ooo:8080/live/Univision@RE/100Bangla/223056.ts
+Now HK Premier Sport 2 (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/223057.ts
+Now HK Premier Sport 3 (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/223058.ts
+Now HK Premier Sport 4 (opplex),http://xtv.ooo:8080/live/Univision@RE/100Bangla/223059.ts
+Now HK Premier Sport 1 (p205)  50fps,https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/754587.ts
+Now HK Premier Sport 2 (p205),https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/754598.ts
+Now HK Premier Sport 3 (p205),https://p2052.securepoint.io:443/live/AlisaY2708/hYZHvQTatUUd/754599.ts
+Maharbawdi,https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+Channel 7,https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+Mrtv 4,https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+MNTV,http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+Mahar,https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+YTV,http://183.89.246.119:8881/play/a081/index.m3u8
+5 Plus,http://183.89.246.119:8881/play/a07w/index.m3u8
+Channel K,http://183.89.246.119:8881/play/a080/index.m3u8
+Channel ME,http://183.89.246.119:8881/play/a07t/index.m3u8
+Channel 9,http://183.89.246.119:8881/play/a07y/index.m3u8
+Fortune TV,http://183.89.246.119:8881/play/a082/index.m3u8
+MM Movie,https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
