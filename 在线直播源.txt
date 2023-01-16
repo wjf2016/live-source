@@ -1,0 +1,88 @@
+超级直播：
+http://tv.91mytv.com/api/listitv.zip
+
+IPTV 频道 电视 直播 源 定期检测维护有效性
+
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+
+https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.m3u
+
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
+
+https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
+
+
+肥羊4K/8K源:
+https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u
+
+肥羊百视通源:
+https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u
+
+肥羊CQYX源:
+https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u
+
+肥羊足球源:
+https://football.v1.mk
+
+YanG Gather：
+https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u️
+
+YanG 斗鱼：
+https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u️
+
+YanG 虎牙：
+https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u️
+
+YueChan IPv6：
+https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
+YueChan Radio：
+https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
+
+APTV IPv6：
+https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
+APTV 回放测试源：
+https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
+
+范明明 IPv6
+https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+
+范明明 Global：
+https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
+
+范明明 Radio：
+https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
+
+ZHG IPv6：
+https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u
+
+ZHG Playlist：
+https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/playlist.m3u
+
+ZHG CNTV：
+https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/CNTV.m3u
+
+ZHG SamsungTVPlus：
+https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/SamsungTVPlus.m3u
+
+ZHG EdemTV：
+https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/EdemTV.m3u
+
+乌云：
+https://ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt
+
+TVradio：
+https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
+
+epg.pm 测试频道：
+https://epg.pm/static/sitemap/test_channels_all.m3u
+
+茶客：
+https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+
+长沙移动：
+https://gitee.com/jllhq/sw/raw/master/yd.txt
+
+吉林联通：
+https://gitee.com/jllhq/sw/raw/master/lt.txt
