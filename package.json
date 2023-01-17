@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "m3u-parser-generator": "^1.2.0",
+    "n-readlines": "^1.0.1"
+  },
+  "name": "live-source",
+  "description": "直播源",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
