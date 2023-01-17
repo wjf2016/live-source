@@ -31,7 +31,7 @@ CNC·中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 Beach TV,http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 CGTN国际频道,http://live.cgtn.com/1000/prog_index.m3u8?$全网576P
 
-数字|频道,#genre#
+数字,#genre#
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
 爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221015131206309318&channel-id=wasusyt&Contentid=6000000006000070630
@@ -96,7 +96,7 @@ CGTN国际频道,http://live.cgtn.com/1000/prog_index.m3u8?$全网576P
 爱娱乐,http://111.11.123.28:6610/000000001000/6000000006000130630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130348305898&channel-id=wasusyt&Contentid=6000000006000130630
 爱院线,http://111.11.123.31:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1888520221014141430188219&channel-id=wasusyt&Contentid=6000000006000030630
 爱院线,http://111.11.123.28:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221014141424292715&channel-id=wasusyt&Contentid=6000000006000030630
-4   K|频道,#genre#
+4   K,#genre#
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
@@ -115,7 +115,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8
 CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-埋堆堆|频道,#genre#
+埋堆堆,#genre#
 【斗气一族】青涩周星星『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
 阿爷厨房第2季『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
 爱·回家-经典TVB爱情故事『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
@@ -143,7 +143,7 @@ CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 张卫健版西游记-当蜘蛛精看上了齐天大圣我是靓宝『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
 状王宋世杰-第二部-张达明大战黄子华『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
 EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
-凤凰|频道,#genre#
+凤凰,#genre#
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
@@ -173,7 +173,7 @@ CHC动作电影-01,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC家庭影院-01,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 凤凰中文-02,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯-02,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-世界|频道,#genre#
+世界,#genre#
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 韩国职业广播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
 韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8?zshijd
@@ -195,7 +195,7 @@ KH_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?z
 KH_FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
 KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?zshijd
 KH_TV9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?zshijd
-地理|频道,#genre#
+地理,#genre#
 ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -205,7 +205,7 @@ KBC ???? (SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 TJB ???? (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
 ???,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-轮播|频道,#genre#
+轮播,#genre#
 沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 成龙,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
@@ -272,7 +272,7 @@ CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m
 嫣然+以一敌百_不得不服！,http://txtest-xp2p.p2p.huya.com/src/1524418101-1524418101-6547325889225424896-3048959658-10057-A-0-1.xs
 鱼塘塘主张年年+新水hu·在下正是西公子！,http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
 MIGU global,http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f8151d88b-1.m3u8
-少儿|频道,#genre#
+少儿,#genre#
 14台少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
 14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
 14台少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225784/1.m3u8?zyangd
@@ -288,8 +288,7 @@ MIGU global,http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
 浙江少儿[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-央视|频道,#genre#
-CCTV13 新闻,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
+央视,#genre#
 CCTV-1 综合,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
@@ -334,6 +333,7 @@ CCTV12,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1
 CCTV12,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/2300.m3u8
 CCTV12,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
 CCTV12,http://39.134.115.163:8080/TVOD/88888910/224/3221225637/index.m3u8
+CCTV13新闻,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
 CCTV15,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
 CCTV15,http://39.134.115.163:8080/TVOD/88888910/224/3221225639/index.m3u8
 CCTV17,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
@@ -425,7 +425,7 @@ CCTV-15音乐,http://39.135.138.59:18890/TVOD/88888910/224/3221225641/index.m3u8
 中国教育1,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel33/index.m3u8
 中国教育1,http://39.134.115.163:8080/TVOD/88888910/224/3221225661/index.m3u8
 江苏优漫卡通,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel53/index.m3u8
-NewTV|频道,#genre#
+NewTV,#genre#
 NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 NewTV潮妈辣婆,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
@@ -616,7 +616,7 @@ DD-解说 新七龙珠动画，武林大会,http://txtest-xp2p.p2p.huya.com/src/
 楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎,http://txtest-xp2p.p2p.huya.com/src/2322561713-2322561713-9975326600276738048-4645246882-10057-A-0-1.xs
 Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年,http://txtest-xp2p.p2p.huya.com/src/1199532313878-1199532313878-5310462036252033024-2399064751212-10057-A-0-1.xs
 樹袋熊小九九 【五福星】每天都要快乐哦,http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
-斗鱼|频道,#genre#
+斗鱼,#genre#
 斗鱼-华语点歌台,http://epg.112114.xyz/douyu/3186217
 斗鱼-军旅动作,http://epg.112114.xyz/douyu/431460
 斗鱼-?救救小鸭吧?,http://epg.112114.xyz/douyu/7925840

@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "m3u-parser-generator": "^1.2.0",
-    "n-readlines": "^1.0.1"
+    "m3u-parser-generator": "^1.2.0"
   },
   "name": "live-source",
   "description": "直播源",

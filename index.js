@@ -1,41 +1,18 @@
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+import nReadlines from "n-readlines";
+import { m3uToTxtPlayList, txtPlayListToM3u } from "./utils/index.js";
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const resolve = (p) => path.resolve(__dirname, p);
-const sourceFile = resolve("./list.json");
-const sourceFileContent = fs.readFileSync(sourceFile, "utf-8");
-let channels = [];
 
-try {
-  channels = JSON.parse(sourceFileContent);
-} catch (error) {}
+const txtPlayListPath = resolve("./list/aptv.txt");
+const savePath = resolve("./list/aptv.m3u");
+const result = txtPlayListToM3u(txtPlayListPath, savePath);
+// const m3uPath = resolve("./list/iptv.m3u");
+// const savePath = resolve("./list/iptv.txt");
+// const result = m3uToTxtPlayList(m3uPath, savePath);
 
-const channelsObj = {};
-
-channels = channels.map((channel) => {
-  const { name, prov, urls } = channel;
-
-  if (!channelsObj[prov]) {
-    channelsObj[prov.trim()] = [];
-  }
-
-  urls
-    .split("#@")
-    .filter((url) => url.match(/^https?:\/\//))
-    .forEach((url) => {
-      channelsObj[prov].push(`${name},${url}`);
-    });
-});
-
-channels = Object.keys(channelsObj).map((prov) => {
-  return { prov, urls: channelsObj[prov] };
-});
-
-const result = channels.reduce((prev, next) => {
-  const { prov, urls } = next;
-  const provStr = `${prov},#genre#\n${urls.join("\n")}\n\n`;
-
-  return `${prev}${provStr}`;
-}, "");
-
-fs.writeFileSync(resolve("./list.txt"), result);
+console.log(result);

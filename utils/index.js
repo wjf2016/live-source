@@ -88,43 +88,55 @@ function channelGroupUnique(channelGroup) {
  * @returns {array} 频道数组
  */
 export function txtPlayListToChannelGroup(txtPlayList) {
-  const regExp = /(\r?\n){2,}/gm;
-  let splitResult = txtPlayList.split(regExp).filter((item) => item.trim());
+  let lineArr = txtPlayList.split(/\r?\n/);
+  const tempArr = [];
+
+  lineArr.forEach((line) => {
+    // 空行时
+    if (!line.trim()) {
+      tempArr.push({ groupTitle: "未分组", urls: [] });
+    } else if (line.trim().match(/(,#genre#)$/)) {
+      // 分类行时
+      const groupTitle = line.trim().replace(",#genre#", "");
+      tempArr.push({ groupTitle, urls: [] });
+    } else {
+      // 频道行时
+      tempArr[tempArr.length - 1].urls.push(line);
+    }
+  });
 
   let channelGroup = [];
 
-  splitResult.forEach((item) => {
-    let [groupTitle, urls] = item.split(",#genre#");
-
-    if (!urls) {
-      urls = groupTitle;
-      groupTitle = "未分组";
-    }
-
-    groupTitle = groupTitle.trim();
-    urls = urls.split(/(\r\n|\n|\r)/).filter((item) => item.trim());
+  // 合并相同的分组
+  tempArr.forEach((group) => {
+    const { groupTitle, urls } = group;
 
     const findIndex = channelGroup.findIndex(
       (item) => item.groupTitle === groupTitle
     );
 
-    if (findIndex !== -1) {
-      const item = channelGroup[findIndex];
-
-      if (!item.urls) {
-        item.urls = [];
-      }
-
-      item.urls.concat(urls);
+    if (findIndex === -1) {
+      channelGroup.push(group);
     } else {
-      channelGroup.push({
-        groupTitle: groupTitle,
-        urls,
-      });
+      channelGroup[findIndex].urls.push(...urls);
     }
   });
 
+  channelGroup = channelGroup.filter((item) => item.urls.length);
+
+  const findIndex = channelGroup.findIndex(
+    (item) => item.groupTitle === "未分组"
+  );
+
+  // 将未分组放到最后面
+  if (findIndex !== -1) {
+    const item = channelGroup[findIndex];
+    channelGroup.splice(findIndex, 1);
+    channelGroup.push(item);
+  }
+
   channelGroup = channelGroupUnique(channelGroup);
+
   return channelGroup;
 }
 
